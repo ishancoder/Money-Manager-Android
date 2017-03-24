@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Money Manager</string>
+    <string name="search_hint">Enter the Name to Search</string>
+
+    <!-- Keys for shares preferences -->
+    <string name="monthly_amount" translatable="false">Monthly Amount</string>
+    <string name="current_amount" translatable="false">Current Amount</string>
+    <string name="first_run" translatable="false">First Run</string>
+    <string name="date_value" translatable="false">DateValue</string>
+    <string name="month_value" translatable="false">MonthValue</string>
+
+    <!--Default Values For Shared Preferences-->
+    <string name="default_money" translatable="false">0</string>
+
+
+    <!-- In app strings -->
+    <string name="menu_item_fill_money">Fill Money</string>
+    <string name="money_already_full_message">No Need To Fill, If you want to increase the monthly budget go to Change Monthly Budget.</string>
+    <string name="data_stored_successful_message">Data Stored Successfully.</string>
+    <string name="fields_empty_warning">Please Fill All The Fields.</string>
+    <string name="total_amount_string">Total Amount Paid To %1$s : %2$s</string>
+    <string name="available_money_tag">Available Amount : %1$s</string>
+    <string name="data_update_success_message">Data Successfully Updated!</string>
+    <string name="could_not_delete_message">Couldn\'t delete this item!</string>
+    <string name="confirm">Confirm</string>
+    <string name="are_you_sure_delete_message">Are You Sure? Item will be deleted permanently!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deletion_successful_message">Item was deleted Successfully!</string>
+    <string name="deletion_unsuccessful_message">Item was not deleted!</string>
+    <string name="edit">Edit</string>
+    <string name="enter">Enter</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="splash_screen_message">Enter your monthly budget so we can track when to notify you.</string>
+    <string name="splash_screen_enter_edit_text">Enter your Budget here!</string>
+    <string name="id">ID</string>
+    <string name="given_to">Given To</string>
+    <string name="given_for">Given For</string>
+    <string name="amount">Amount</string>
+    <string name="specific_search">Specific Search</string>
+    <string name="given_to_edit_text">Enter the name of person or firm here!</string>
+    <string name="given_for_edit_text">Enter the product name here.</string>
+    <string name="amount_edit_text">Enter the total amount given here!</string>
+    <string name="change_monthly_amount">Change Monthly Budget or Date</string>
+    <string name="fill_amount">Fill Monthly Budget</string>
+    <string name="enter_date_edit_text">Enter the date to mark as start of month here!</string>
+    <string name="enter_date_message">Enter the day of the month which we will consider as the starting of the new Month.</string>
+    <string name="not_valid_date_message">Please enter a number between 1 to 31.</string>
+    <string name="please_enter_budget_message">Please enter an amount.</string>
+    <string name="reset_budget_message">Hey! Your have reached to the end of the month would you like to reset the Monthly Budget! The action is irreversible and all the sotred entries will be lost.</string>
+    <string name="resetted_successfully">We have resetted successfully!</string>
+    <string name="resetted_unsuccessful">All your data is intact nothing was removed.</string>
+    <string name="enter_data">Enter Transactions</string>
+    <string name="view_data">View Transactions</string>
+    <string name="add_money_again_to_budget_message">Do you want to add the delete amount back to your budget?</string>
+    <string name="ok">OK</string>
+</resources>

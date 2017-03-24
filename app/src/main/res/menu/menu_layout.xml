@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/search"
+        android:id="@+id/search_menu_item"
+        android:icon="@drawable/ic_search_white_48dp"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="collapseActionView|ifRoom"/>
+
+
+    <item
+        android:title="@string/fill_amount"
+        android:id="@+id/fill_money"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="@string/change_monthly_amount"
+        android:id="@+id/budget_resetter"
+        android:orderInCategory="101"
+        app:showAsAction="never"/>
+</menu>

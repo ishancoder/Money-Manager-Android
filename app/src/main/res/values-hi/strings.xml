@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मनी मैनेजर</string>
+    <string name="amount"> रकम</string>
+    <string name="amount_edit_text">कुल राशि यहाँ दर्ज करें!</string>
+    <string name="are_you_sure_delete_message"> क्या आपको यकीन है? मद स्थायी रूप से हटा दिया जाएगा!</string>
+    <string name="available_money_tag">उपलब्ध राशि : %1$s</string>
+    <string name="change_monthly_amount"> मासिक बजट या तिथि बदलें</string>
+    <string name="confirm"> पुष्टि करें</string>
+    <string name="could_not_delete_message"> इस आइटम को नष्ट नहीं किया जा सका !</string>
+    <string name="data_stored_successful_message">डेटा सफलतापूर्वक संग्रहीत ।</string>
+    <string name="data_update_success_message">डेटा को सफलतापूर्वक अद्यतन!</string>
+    <string name="delete"> हटाएँ</string>
+    <string name="deletion_successful_message"> आइटम सफलतापूर्वक नष्ट कर दिया गया !</string>
+    <string name="deletion_unsuccessful_message">आइटम हटाया नहीं गया !</string>
+    <string name="edit"> संपादित करें</string>
+    <string name="enter">दर्ज करें</string>
+    <string name="fields_empty_warning">सभी फील्ड्स भरें।</string>
+    <string name="fill_amount">मासिक बजट में भरें</string>
+    <string name="given_for"> के लिए दिया</string>
+    <string name="given_for_edit_text"> यहाँ उत्पाद नाम दर्ज करें।</string>
+    <string name="given_to"> को दिया</string>
+    <string name="given_to_edit_text"> यहाँ व्यक्ति या फर्म का नाम दर्ज करें !</string>
+    <string name="id"> आईडी</string>
+    <string name="menu_item_fill_money"> मनी भरें</string>
+    <string name="money_already_full_message">बढ़ने की कोई जरुरत नहीं है, यदि आप अपना मासिक बजट परिवर्तित करना चाहते हैं तो "बदले मासिक बजट" ऑप्शन का चयन करें ।</string>
+    <string name="no">नहीं</string>
+    <string name="save">सहेजें</string>
+    <string name="search">खोज</string>
+    <string name="search_hint">खोजने के लिए नाम दर्ज करें।  </string>
+    <string name="specific_search">विशिष्ट खोज</string>
+    <string name="splash_screen_enter_edit_text">अपना बजट प्रविष्ट करें। </string>
+    <string name="splash_screen_message">आपके मासिक बजट डालें ताकि हम आपको सूचित करने के लिए ट्रैक कर सकें।</string>
+    <string name="total_amount_string">%1$s को दी गयी कुल राशि : %2$s</string>
+    <string name="yes">हाँ</string>
+    <string name="enter_date_edit_text"> महीने यहां की शुरुआत के रूप में चिह्नित करने के लिए दिनांक दर्ज करें </string>
+    <string name="enter_date_message">महीने की वह दिनांक प्रविष्ट करें जिसे हम महीने की शुरुआत के रूप में चिन्हित करेंगे।  </string>
+    <string name="not_valid_date_message">1 - 31 के बीच एक संख्या दर्ज करें।</string>
+    <string name="please_enter_budget_message">कृप्या एक राशि प्रवेश करें।</string>
+    <string name="reset_budget_message">अरे! आपका महीने के अंत तक पहुँच चुके आप मासिक बजट रीसेट करना चाहते हैं! कार्रवाई अपरिवर्तनीय है और सभी प्रविष्टियों को खो दिया जाएगा ।</string>
+    <string name="resetted_successfully"> हम सफलतापूर्वक रीसेट कर दिया है !</string>
+    <string name="resetted_unsuccessful">आपके सभी डेटा बरकरार है, कुछ भी नहीं हटाया गया ।</string>
+    <string name="enter_data">लेनदेन दर्ज करें </string>
+    <string name="view_data">लेनदेन देखें </string>
+    <string name="add_money_again_to_budget_message">क्या आप हटाई गयी राशि को वापस अपने बजट में जोड़ना चाहते है ?</string>
+    <string name="ok">ठीक है</string>
+</resources>
